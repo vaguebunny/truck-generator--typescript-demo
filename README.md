@@ -1,0 +1,1 @@
+# truck-generator--typescript-demo
